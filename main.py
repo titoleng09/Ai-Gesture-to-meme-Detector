@@ -1,0 +1,1 @@
+print("Open CV Project AI meme-gesture detection")
